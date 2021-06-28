@@ -1,0 +1,12 @@
+SEM
+__pycache__
+IMG
+checkpoint
+results
+*.rclonelink
+tags
+*.lock
+cifar10_data
+cifar10_train
+*.log
+__pycache__
