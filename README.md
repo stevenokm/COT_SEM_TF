@@ -82,7 +82,7 @@ The following table shows the best test accuracy in a 200-epoch training session
 
 | Model         | Baseline      | COT           |
 |:--------------|:--------------|:--------------|
-| ResNet-110    | 93.68%        | 93.49%        |
+| ResNet-110    | 93.49%        | 93.68%        |
 
 
 ## Acknowledgement
