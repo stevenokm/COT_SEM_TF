@@ -49,7 +49,7 @@ To prepare dataset, please find the folder structure below:
 
 To convert dataset into tfrecords please find the following commands:
 
-        python3 sem_to_tfrecord.py \
+        python sem_to_tfrecord.py \
           --raw_data_dir=${DATA_DIR}
 
 ### Run
